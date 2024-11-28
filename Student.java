@@ -26,6 +26,5 @@ public class Student {
 	System.out.println(Student2.age);
 	System.out.println(Student2.gender);
 	System.out.println(Student2.numofSubjects);
-	System.out.println("Nivashini punda not used till date");
 	}
 }
